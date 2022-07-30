@@ -56,3 +56,6 @@ alert.pack(side='bottom', ipady=30)
 
 
 root.mainloop()
+
+
+print("Estou somente fazendo um teste para verificar mudanças no diretório do github")
