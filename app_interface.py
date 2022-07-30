@@ -56,5 +56,3 @@ alert.pack(side='bottom', ipady=30)
 
 
 root.mainloop()
-
-print("Mais testes ")
