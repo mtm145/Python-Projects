@@ -1,8 +1,8 @@
 
 from tkinter import *
 
-from cadastroClientes import insert_table
-from cadastroClientes import create_connection
+from cadastro_pessoas import insert_table
+from cadastro_pessoas import create_connection
 
 
 database = r"F:\Estudos\python\pooTest\bancosqlite.db"
